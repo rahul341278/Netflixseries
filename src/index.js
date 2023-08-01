@@ -1,20 +1,4 @@
-// import React from "react";
-// import ReactDOM from "react-dom";
-// // import "./index.css";
-// import Heading from "./Heading";
-// import add , {sub,mul,div} from "./calc";
 
-// ReactDOM.render(
-//   <>
-//     <ol>
-//       <li>Sum of two numbers is {add(4,3)}</li>
-//       <li>Sub of two numbers is {sub(3,4)}</li>
-//       <li>mul of two numbers is {mul(4,3)}</li>
-//       <li>divison of two numbers is {div(4,3)}</li>
-//     </ol>
-//   </>,
-//   document.getElementById('root')
-// );
 import React from "react";
 import ReactDOM from "react-dom";
 import Heading from "./Heading";
